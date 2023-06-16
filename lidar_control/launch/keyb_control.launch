@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="lidar_control" type="keyb_move.py" name="keyb_move" output="screen" />
-    <node pkg="lidar_control" type="key_control.cpp" name="ks" />
-</launch>
