@@ -1,0 +1,2 @@
+livox_ros_driver2
+-DROS_EDITION=ROS1 -DCATKIN_DEVEL_PREFIX=/home/astar/ws_livox2/devel -DCMAKE_INSTALL_PREFIX=/home/astar/ws_livox2/install -G Unix Makefiles
